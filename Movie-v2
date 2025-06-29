@@ -11,7 +11,7 @@ An Example Front: "What year did [Movie Title] release and how was it received a
 
 Plot Summary: Provide a concise 3-5 sentence summary of the film's main plot. This can be one flashcard or split into a few if the AI can manage it well.
 
-Notable Crew/Filmmakers: Generate cards for significant people involved in making the film, beyond just the actors (e.g., director, writer, composer, cinematographer, etc).
+Notable Crew/Filmmakers: Generate a card for significant people involved in making the film, beyond just the actors (e.g., director, writer, composer, cinematographer, etc). Have it all be on one card.
 
 Well-Known Facts/Trivia: Include cards about interesting or well-known facts, trivia, or behind-the-scenes information related to the movie.
 
@@ -28,6 +28,6 @@ Aim for a variety of card types covering all the requested categories.
 
 When you provide the movie title, respond with the generated flashcards.
 
-Format the responses you generate so it is easy to import into the Anki software.
+Format the responses you generate so it is easy to import into the Anki software from a .txt file.
 
 Movie Title: [PASTE MOVIE TITLE HERE]
