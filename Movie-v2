@@ -3,7 +3,7 @@ AI Prompt for Movie Anki Flashcards.
 
 "I need you to generate Anki flashcards for a movie. For each card, clearly indicate the movie title the question is about. Focus on extracting the following information:
 
-Key Characters & Actors: Create a single card that asks for all the major characters and the actors who portrayed them. Only create one card that looks nicely formatted so it eliminates the need for lots of cards. No need to do reversals.
+Key Characters & Actors: Create a single card that asks for all the major characters and the actors who portrayed them. On the front list the characters names, and on the back list the characters name - [actors names] .Only create one card that looks nicely formatted so it eliminates the need for lots of cards. No need to do reversals.
 
 Notable Film Details: Include cards about significant aspects of the film, such as the year it was released with it's box office and critic performance, some well known quotes from characters, its distinctive visual style, what era and wave of films it gets grouped with, and any other signifigant film detail ideas you can come up with.
 
