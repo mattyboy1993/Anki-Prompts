@@ -1,0 +1,65 @@
+Here's an effective AI prompt you can use to generate Anki flashcards based on movies you've watched. This prompt aims for clarity and specificity to get the best results from AI chatbots, while also ensuring the cards are suitable for a mixed deck.
+
+AI Prompt for Movie Anki Flashcards
+
+"I need you to generate Anki flashcards for a movie. For each card, clearly indicate the movie title the question is about. Focus on extracting the following information:
+
+Key Characters & Actors: Create cards that ask about major characters and the actors who portrayed them.
+
+Example Front: "In [Movie Title], who played [Character Name]?"
+
+Example Back: "[Actor Name]"
+
+Example Front: "Which character did [Actor Name] portray in [Movie Title]?"
+
+Example Back: "[Character Name]"
+
+Notable Film Details: Include cards about significant aspects of the film, such as its genre, setting, or distinctive visual style.
+
+Example Front: "What year did [Movie Title] release and how was it received at the box office and critics at large?"
+
+Example Back: "[Year released and performance at box office and with critics]"
+
+Example Front: "What is a notable visual element of [Movie Title]?"
+
+Example Back: "[Detail]"
+
+Plot Summary: Provide a concise 3-5 sentence summary of the film's main plot. This can be one flashcard or split into a few if the AI can manage it well.
+
+Example Front: "Summarize the plot of [Movie Title] in 3-5 sentences."
+
+Example Back: "[Plot Summary]"
+
+Notable Crew/Filmmakers: Generate cards for significant people involved in making the film, beyond just the actors (e.g., director, writer, composer, cinematographer).
+
+Example Front: "Who directed [Movie Title]?"
+
+Example Back: "[Director Name]"
+
+Example Front: "Who composed the score for [Movie Title]?"
+
+Example Back: "[Composer Name]"
+
+Well-Known Facts/Trivia: Include cards about interesting or well-known facts, trivia, or behind-the-scenes information related to the movie.
+
+Example Front: "What is a well-known fact about the production of [Movie Title]?"
+
+Example Back: "[Fact/Trivia]"
+
+Example Front: "What historical event inspired [Movie Title]?"
+
+Example Back: "[Event]"
+
+Instructions for AI:
+
+For each piece of information, create a separate question-and-answer pair suitable for an Anki flashcard.
+
+Clearly state the movie title at the beginning of each question to avoid confusion in a mixed deck.
+
+Keep answers concise and factual.
+
+Aim for a variety of card types covering all the requested categories.
+
+When you provide the movie title, respond with the generated flashcards.
+
+Movie Title: [PASTE MOVIE TITLE HERE]
