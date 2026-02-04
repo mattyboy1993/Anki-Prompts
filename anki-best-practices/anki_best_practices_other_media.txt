@@ -1,0 +1,12 @@
+For a documentary card, what should the question specify?	The specific claim or event and the source segment or speaker.
+How should you create cards from articles or essays?	Ask about one claim or finding tied to a clear section or argument.
+What is a good way to test comparisons across sources?	Ask for the specific difference and name both sources in the question.
+How should you handle recurring concepts across media?	Create separate cards per source and disambiguate with titles.
+What is a good way to test a timeline in a series?	Ask about one dated event and its position relative to another event.
+How should you handle opinion-based content?	Ask for the stated opinion and who expressed it, not whether it is true.
+What should a card about a creator’s intent include?	The creator name, the work, and the specific intent or message described.
+How should you test a cause-and-effect claim in any medium?	Ask for the cause and the exact effect as stated in the source.
+What is the best way to handle names, places, or jargon?	Ask for one definition or identification with enough context to disambiguate.
+How should you handle unfamiliar acronyms?	Ask for the acronym expansion and what it refers to in context.
+What should you do when a prompt feels too broad?	Split it into smaller cards until each tests one precise fact.
+How should you ensure cards are durable over time?	Use stable identifiers like titles, dates, or named entities in the question.
