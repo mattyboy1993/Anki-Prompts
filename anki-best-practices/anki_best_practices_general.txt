@@ -1,0 +1,15 @@
+What is the preferred card format for Anki import in these guidelines?	Each card is a single line with the question and answer separated by a tab.
+When crafting an Anki question, what should it explicitly reference?	The specific concept, source, or context being tested so the card is unambiguous.
+How many facts should a single Anki card test?	One atomic fact or idea.
+What is the minimum information principle in these best practices?	Include only the information needed to answer the question.
+What kind of wording should be avoided to keep cards clear?	Vague or fuzzy wording that allows multiple interpretations.
+Why should recognition-only prompts be minimized?	They test familiarity rather than active recall.
+When is it acceptable to use a cloze deletion?	Only when it makes the prompt simpler and unambiguous.
+What should you do if a prompt could have multiple correct answers?	Rewrite the question to make only one correct answer possible.
+How long should most cards take to answer?	About 5–10 seconds.
+How should complex ideas be handled when making cards?	Break them into smaller, precise cards that each test one idea.
+Why include context in the question when needed?	So the card still makes sense outside the original source.
+What is the goal of using "Why" or "How" questions?	Promote understanding and mental connections, not just recall.
+How should overlapping or redundant cards be handled?	Merge or remove them to avoid repeated testing of the same fact.
+What should be done with enumerations or long lists?	Split them into separate, single-fact cards.
+What should every card be tested against before finalizing?	Whether it makes sense in isolation and has exactly one correct answer.

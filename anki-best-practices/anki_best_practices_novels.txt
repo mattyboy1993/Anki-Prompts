@@ -1,0 +1,12 @@
+For a novel character card, what should the question specify?	The character name and the exact role or relationship being tested.
+What is a good way to ask about a novel’s setting?	Ask for a specific place or time period tied to a named event or chapter.
+How should you handle a novel’s themes in Anki cards?	Turn each theme into a focused question with a concrete example from the story.
+What should a plot event card avoid?	Broad prompts like “What happens in the novel?” that test multiple events.
+How can you make a novel card about symbolism unambiguous?	Name the symbol and ask for its specific meaning or function in the story.
+When asking about a novel’s conflict, what should be included?	The protagonists and the exact nature of the conflict being tested.
+What is the preferred way to test a character arc?	Ask about a specific change in the character tied to a clear moment.
+How should you treat secondary characters in cards?	Focus on one clear role or action rather than a full biography.
+What is a good prompt style for memorable quotes?	Ask who said the quote and in what context, one fact per card.
+How should you handle multiple plotlines?	Create separate cards for each plotline and each key event.
+What should be done if two characters are easily confused?	Explicitly contrast them in the question to prevent ambiguity.
+How should you ask about a novel’s ending?	Ask about a single, specific outcome rather than summarizing the whole ending.

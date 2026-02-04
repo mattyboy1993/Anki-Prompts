@@ -1,0 +1,12 @@
+For a movie plot card, what should the question specify?	The exact scene or event and the character involved.
+How should you handle a movie’s themes in cards?	Ask about one theme tied to a specific scene or character decision.
+What is a good way to test a character’s motivation?	Ask for the motivation behind a named action or scene.
+How can you make setting questions precise?	Ask about a named location and its role in a particular scene.
+What should a card about a plot twist avoid?	Vague prompts like “What is the twist?” without context.
+How should you handle similar characters across movies or sequels?	Name the movie and the character to disambiguate.
+What is a good way to create cards about cinematography or style?	Ask for a specific technique used in a named scene and its effect.
+How should you ask about a movie’s ending?	Ask about one concrete outcome or decision in the final sequence.
+What is the preferred way to test a movie’s central conflict?	Ask for the conflict between specific parties or goals.
+How should you handle quotable lines from a film?	Ask who said the line or what situation it appears in, one fact per card.
+What should you do with multiple subplots?	Create separate cards for each subplot’s key event or resolution.
+How should you test a director’s intent or message?	Ask for the stated or implied message tied to a specific scene.

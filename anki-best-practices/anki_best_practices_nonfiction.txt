@@ -1,0 +1,12 @@
+For a nonfiction concept card, what should the question include?	The exact term and the context or domain it belongs to.
+How should you test a nonfiction argument or thesis?	Ask for the thesis in one sentence or the key claim the author defends.
+What is the best way to handle frameworks or models?	Create separate cards for each component and how it functions.
+How should you ask about evidence used in a nonfiction book?	Ask for the specific piece of evidence and what claim it supports.
+When should you use examples in nonfiction cards?	When they clarify an abstract idea or differentiate similar concepts.
+How can you keep definitions precise?	Use one-sentence definitions with necessary qualifiers only.
+What should you do with multi-step processes?	Turn each step into a separate card and keep the order explicit.
+How do you avoid overly broad prompts about a chapter?	Ask about one clear claim or finding from that chapter.
+What is a good way to handle statistics or numbers?	Ask for the number and what it measures in a specific context.
+How should you test comparisons between two ideas?	Ask for the distinguishing feature and name both ideas in the question.
+What should a "why" question about a nonfiction concept target?	The causal explanation the author gives, not a general opinion.
+How should you handle author recommendations?	Create a card for each recommendation and its stated rationale.

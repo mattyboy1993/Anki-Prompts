@@ -1,0 +1,12 @@
+For a podcast episode card, what should the question include?	The episode title or number and the exact topic being tested.
+How should you handle guest information?	Ask for the guest name and their role or expertise in the episode.
+What is a good way to test a key takeaway?	Ask for the specific insight or recommendation attributed to a speaker.
+How can you avoid vague prompts about an episode summary?	Ask about one concrete claim or story discussed in the episode.
+What should you do with multi-part discussions?	Split them into separate cards for each distinct point.
+How should you ask about advice or steps given in an episode?	Ask for one step and its purpose or outcome.
+What is the preferred way to test definitions introduced in a podcast?	Ask for the term and the exact definition given by the speaker.
+How should you handle statistics mentioned in an episode?	Ask for the number and what it refers to in that episode.
+What should be included when testing a quote from a guest?	The speaker and the context or topic of the quote.
+How should you differentiate similar episodes or series?	Include the series name and episode identifier in the question.
+What is a good way to test an anecdote?	Ask for the key point or lesson drawn from the anecdote.
+How should you handle follow-up actions mentioned in an episode?	Make a card for each action and the reason it was suggested.
